@@ -1,0 +1,40 @@
+body {
+  background-color: lightsteelblue;
+  font-family: helvetica;
+}
+
+h1, h2, .tag {
+  text-align: center;
+}
+
+h2 {
+  color: dodgerblue;
+}
+
+table {
+  width: 600px;
+  margin: auto;
+  font-size: 14px;
+}
+
+th, td {
+  border: solid 2px;
+  border-color: lightsteelblue;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+th {
+  background-color: cornflowerblue;
+}
+
+td {
+  background-color: ghostwhite;
+}
+
+.tag {
+  font-weight: bold;
+  font-size: 12px;
+  font-family: monospace;
+  background-color: lightcyan;
+}
